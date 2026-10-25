@@ -1,6 +1,6 @@
-# Kami Find App — Android Download
+# Kami Circle — Android Download
 
-This repository hosts the current Android test release of **Kami Find App**.
+This repository hosts the current Android test release of **Kami Circle**.
 
 ## Install on Android
 
@@ -8,6 +8,6 @@ This repository hosts the current Android test release of **Kami Find App**.
 2. Open the downloaded file.
 3. If Android asks whether to allow installation from this source, allow it for this installation.
 4. Tap **Install**.
-5. Open Kami Find App, create an account or sign in, then join your family using the invite code you received.
+5. Open Kami Circle, create an account or sign in, then join your family using the invite code you received.
 
 > This is currently an Android test distribution. iPhone distribution will be added separately later.
